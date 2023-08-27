@@ -50,7 +50,7 @@
 #### https://icons8.com/
 #### https://fontawesome.com/icons
 
-### TO get the fonts foe website
+### TO get the fonts for website
 #### https://fonts.google.com/
 
 ### TO get the human avatars for wenbsite
